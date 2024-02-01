@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "98269528855",
+    "project_id": "flutternotidication2",
+    "storage_bucket": "flutternotidication2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98269528855:android:31a87962c5ab0cf791ad52",
+        "android_client_info": {
+          "package_name": "com.form.form"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqdGv96It89FLh8o7x9y1MIUuZsrto0oY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
